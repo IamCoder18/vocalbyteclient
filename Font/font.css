@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Regular'), url('ProductSans-Regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Italic'), url('ProductSans-Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Thin Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Thin Regular'), url('ProductSans-Thin.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Light Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Light Regular'), url('ProductSans-Light.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Medium Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Medium Regular'), url('ProductSans-Medium.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Black Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Black Regular'), url('ProductSans-Black.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Thin Italic'), url('ProductSans-ThinItalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Light Italic'), url('ProductSans-LightItalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Medium Italic'), url('ProductSans-MediumItalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bold'), url('ProductSans-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bold Italic'), url('ProductSans-BoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Black Italic'), url('ProductSans-BlackItalic.woff') format('woff');
+}
